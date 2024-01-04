@@ -1,0 +1,3 @@
+If you find yourself in a situation where you need to retrieve data from multiple API endpoints or manage multiple asynchronous operations, consider utilizing the Array.fromAsync() method. This static method creates a new, shallow-copied Array instance from an async iterable, iterable, or array-like object, offering a convenient solution for handling asynchronous tasks.
+
+The, Array.fromAsync() awaits each value yielded from the object sequentially, ensuring a systematic and reliable approach to handling asynchronous data.
